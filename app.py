@@ -44,7 +44,7 @@ def communicate():
 
 
 # ユーザーインターフェイスの構築
-st.title(" 「PCに関する質問」に回答するチャットボット")
+st.title(" 「パソコンに関する質問」に回答するチャットボット")
 st.image("22_win10.png")
 st.write("どのような質問でしょうか？")
 st.write("")

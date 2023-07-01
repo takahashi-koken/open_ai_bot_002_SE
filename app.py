@@ -48,7 +48,7 @@ st.title(" 「PCに関する質問」に回答するチャットボット")
 st.image("22_win10.png")
 st.write("どのような質問でしょうか？")
 st.write("")
-st.write("　　（入力例）OneDriveで同期エラーが発生しています")
+st.write("　　（入力例）OneDriveで同期エラーが発生してしまいました")
 st.write("　　（入力例）XLOOKUPの具体的な使い方を教えてほしい")
 
 user_input = st.text_input("メッセージを入力してください。", key="user_input", on_change=communicate)
